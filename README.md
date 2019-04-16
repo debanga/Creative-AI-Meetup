@@ -4,7 +4,7 @@ Examples of Generative Adversarial Networks (GANs)
 ### For the meetups of "Toronto Creative Deep-Learning Group" 
 Join @ https://www.meetup.com/Toronto-Creative-Deep-Learning-Meetup/)
 
-![evolution of output during training](https://tensorflow.org/images/autoencoders/cvae.gif)
+![evolution of output during training](https://www.underconsideration.com/brandnew/archives/meetup_logo_before_after.png)
 
 ### What we're about
 
