@@ -11,3 +11,8 @@
 - Official TensorFlow [tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials).
 
 - [Deep Learning Book](http://www.deeplearningbook.org/) by Goodfellow, Bengio, Courville.
+
+## Blogs
+- https://openai.com/blog/generative-models/
+- https://rubikscode.net/2018/02/19/artificial-neural-networks-series/
+- https://www.oreilly.com/ideas/using-tensorflow-to-generate-images-with-pixelrnns
